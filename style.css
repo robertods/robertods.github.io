@@ -10,9 +10,5 @@ html, body {
 }
 
 .container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  overflow: auto;
+  margin: 20px auto;
 }
