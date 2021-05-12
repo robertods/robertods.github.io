@@ -337,10 +337,10 @@
 .r-green {
   background: rgb(0, 170, 9);
 }
-.r-green.r-cyan:hover{
+.r-button.r-green:hover{
   background: rgb(5, 194, 15);
 }
-.r-green.r-cyan:active {
+.r-button.r-green:active {
   background: rgb(1, 121, 7);
 }
 .r-button.r-min {
