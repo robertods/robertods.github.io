@@ -1,0 +1,19 @@
+.mdl-layout__header-row {
+  padding-left: 20px;
+}
+
+.count {
+  padding: 16px;
+  font-weight: bolder;
+}
+
+.action-corner {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+.color-gray {
+  color: rgb(143, 143, 143);
+  cursor: move;
+}

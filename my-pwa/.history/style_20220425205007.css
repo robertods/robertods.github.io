@@ -1,0 +1,6 @@
+@import url('./styles/header.css');
+
+.action-corner {
+  position: fixed;
+  bottom: 0;
+}

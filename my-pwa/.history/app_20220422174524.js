@@ -1,0 +1,1 @@
+import { render } from './vendor/lit-html/index.js'
